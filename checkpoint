@@ -1,0 +1,2 @@
+model_checkpoint_path: "NN_synthspectra_simple_final_ckpt"
+all_model_checkpoint_paths: "NN_synthspectra_simple_final_ckpt"
